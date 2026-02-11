@@ -2,6 +2,8 @@
 
 **QM 2023 -- Statistics II / Data Analytics | Spring 2026**
 
+**To begin:** Click the green **"Use this template"** button to create your own copy of this lab. Then open a **Codespace** to run it.
+
 ## Overview
 
 This lab introduces **simple linear regression** (OLS) using REIT data. You will estimate how individual REIT annual returns relate to **dividend yield** and learn to interpret the regression output like a professional analyst. A secondary analysis explores **market cap** (size) as an alternative predictor.
